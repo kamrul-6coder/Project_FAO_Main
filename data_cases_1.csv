@@ -1,0 +1,201 @@
+uuid,datetime,species,number_morbidity,disease_id,number_mortality,total_number_cases,location
+05a170b6-0bc4-41e6-9dd9-b9b30313b2d8,05-05-21 15:38,pig,5,5,0,5,Village 3
+72a5399d-a035-4324-9f47-feb2bb1eb4a0,03-05-21 12:11,cat,2,4,0,2,Village 3
+2ad7d909-2792-4851-a932-7ad37cd8c64c,11-05-21 15:06,chicken,5,9,2,7,Village 2
+713f6f60-35b1-4edb-8b09-2453aad44278,07-05-21 15:36,dog,4,3,0,4,Health Centre B
+f22dfebf-cd72-4e3e-beab-58c93aad82d9,11-05-21 16:06,sheep,1,3,2,3,Village 3
+baa67d98-ddc7-4545-8739-59fb7489331f,04-05-21 11:55,cat,1,7,0,1,Village 1
+bbef2885-b326-49dd-b449-c088ac86c469,01-05-21 11:08,dog,2,0,5,7,Health Centre A
+e8e29406-1445-4b95-9e9a-afbfc9b0df03,07-05-21 17:54,sheep,4,3,2,6,Village 3
+6301292b-46f1-44ea-b0f1-7116faf9140f,28-04-21 9:11,cat,1,6,0,1,Village 3
+08440197-3102-4a18-818e-4a4b73e21310,01-05-21 16:24,pig,5,7,2,7,Health Centre B
+cdfc1b84-0d78-44cf-9726-e68dc576410e,11-05-21 10:55,buffalo,4,1,0,4,Village 3
+61a53b29-6c28-4793-bbce-825067514e22,11-05-21 11:01,dog,4,5,5,9,Village 3
+40f88af6-931d-4877-85d9-cd5dcc6a0926,06-05-21 15:37,pig,6,6,2,8,Health Centre A
+d1a8b8bf-44fb-4eac-ad20-db27111f5a7e,01-05-21 12:05,pig,6,5,5,11,Village 3
+f5ddb2f9-19eb-4613-8623-cdc2fd75fa3e,01-05-21 15:49,sheep,2,0,0,2,Village 2
+8a4fadc5-6855-4fcb-8c6a-de0f983bdfa5,04-05-21 18:10,dog,3,2,4,7,Health Centre A
+62f1031e-7da7-4cea-9b63-a1971f6ac32a,08-05-21 9:51,buffalo,3,7,1,4,Village 2
+85aa86cc-430e-4c83-9653-d47ee48413f7,01-05-21 13:03,chicken,5,5,2,7,Village 3
+3f13e312-8ced-4bdb-b309-43a4c21fa5b7,30-04-21 11:58,pig,6,3,3,9,Village 2
+62fb7022-6ed3-4601-a0d8-d2c9ea1ac57c,08-05-21 18:41,cat,6,9,1,7,Village 2
+c5d180d7-08ba-48d8-a96b-01931d14ff3e,27-04-21 15:41,sheep,4,3,1,5,Village 2
+8435b592-2dd9-4102-bfcc-ed5e505fc418,05-05-21 17:17,buffalo,3,0,0,3,Village 3
+8d3012df-5eda-4c56-8d43-b17cfddeebcb,28-04-21 10:44,chicken,3,1,0,3,Village 3
+f5ed5135-b584-42ae-9217-bce47b3f320a,11-05-21 15:17,cat,6,1,3,9,Village 2
+432214fd-d7c8-4540-b458-8f96d853eaf4,30-04-21 10:01,dog,6,6,3,9,Village 1
+6983542f-5cea-44ed-a37e-d8877820ca6c,06-05-21 17:47,buffalo,3,9,4,7,Health Centre B
+d9e1e28b-05db-4d90-8531-8611c1d02f48,01-05-21 9:45,cat,3,5,1,4,Village 2
+861b5c65-6129-4b69-b948-503c590ab10a,07-05-21 13:18,dog,2,5,0,2,Village 1
+157c8ec4-8bea-424c-8ddc-09570e057198,27-04-21 10:14,sheep,3,4,2,5,Village 1
+b8c7cc2e-bf6b-4a6c-8f8e-946be8d7e8a1,03-05-21 13:04,dog,4,1,5,9,Health Centre B
+8a7d32cb-3f5d-415f-8f98-f54392005c0b,05-05-21 17:27,pig,4,4,1,5,Health Centre A
+6c345ed4-2006-48ae-88f4-37abb57f679f,09-05-21 13:54,chicken,5,1,1,6,Village 3
+1be75581-fe0c-4efc-a90b-6db41cf90dc7,28-04-21 17:19,pig,5,0,1,6,Health Centre A
+5dfad94a-6a72-49f8-980c-b5751e60449c,01-05-21 14:07,cat,2,7,0,2,Health Centre A
+f825f7ec-03ce-44d7-a3e0-2feaec939e40,27-04-21 10:57,buffalo,1,1,0,1,Village 2
+a1b6039f-1312-4f9c-9943-c299441a5cf0,30-04-21 15:44,sheep,4,7,0,4,Health Centre B
+d874f16d-52ec-4f05-a27f-148b20289aa5,08-05-21 12:46,pig,2,3,4,6,Village 1
+2bebff3e-10e0-462c-bc9d-c2a783511c34,30-04-21 9:41,chicken,1,7,2,3,Health Centre A
+ec0e9474-c3ea-4030-9578-759750eb3e8f,30-04-21 17:28,buffalo,2,7,3,5,Village 2
+12847969-9f7a-44d4-b43e-d81a08bec1ff,07-05-21 18:32,pig,4,2,0,4,Village 1
+8b188c27-2c8f-4e6b-a9b6-083bb4698fb2,07-05-21 10:21,buffalo,3,7,0,3,Health Centre B
+9e789794-c883-4dda-b2e5-32fbc0602e69,06-05-21 14:23,chicken,1,8,0,1,Health Centre B
+604ee9ca-53de-48d1-b54a-31c3dcf04cfa,11-05-21 11:43,buffalo,6,2,3,9,Village 3
+ffb877e4-f67a-43f2-b375-1660c021146f,27-04-21 12:17,sheep,2,2,4,6,Village 3
+fa769153-e82c-40d6-b578-a0964847fb79,11-05-21 9:50,dog,5,2,0,5,Village 1
+6e6cb751-24b5-4ce3-9d45-05d4da0af053,01-05-21 14:24,sheep,2,3,3,5,Village 3
+755cce86-cb2d-4637-bb2c-7f98395edba7,04-05-21 10:53,sheep,5,7,5,10,Health Centre B
+34b86361-5b57-45d9-a8d4-0bf01b2f1f34,03-05-21 11:46,cat,1,4,0,1,Village 2
+4baa9405-3e8d-4aea-af05-40643375d266,27-04-21 14:19,buffalo,5,4,0,5,Health Centre A
+3ea65920-08eb-4af7-80be-1844b490292a,03-05-21 11:10,dog,1,3,2,3,Village 3
+0e97e1d5-72e4-4eb5-bc0f-6ad03930cb90,03-05-21 9:37,sheep,1,9,0,1,Village 3
+42dc62d6-4f12-48f5-9623-72c23a722408,30-04-21 17:12,dog,5,5,4,9,Village 2
+afba92d0-e60a-41cb-a754-8fef3786b107,06-05-21 10:55,sheep,3,1,0,3,Village 2
+02fcf424-b6e7-4c89-8cf7-e1aea31ceeda,07-05-21 15:31,sheep,1,6,4,5,Village 1
+abfb1109-f367-4aa1-97cd-27c197bff804,11-05-21 9:55,cat,1,5,1,2,Village 2
+33a0f9a5-c65d-49a8-a6d9-388ba126b93a,03-05-21 18:42,cat,6,0,3,9,Health Centre B
+ecd58141-60e8-4a6b-880f-d82ec15ba2de,10-05-21 10:31,dog,5,2,4,9,Health Centre B
+b4881330-8fa2-4bdd-9c3c-349809dafe30,03-05-21 17:19,dog,2,0,0,2,Village 1
+932e0739-05ee-46b5-ad1a-0fe2f9ddb6e8,09-05-21 15:24,dog,5,1,2,7,Village 1
+a64ae813-e7e4-4b76-b524-fe0c3a1e559a,29-04-21 12:20,sheep,1,5,2,3,Village 3
+aff63e5d-308f-4e3c-8c79-9ebf0b25b00a,30-04-21 17:26,buffalo,5,8,2,7,Health Centre B
+36132179-ebb9-40cc-8d5e-ff6560bd639e,30-04-21 9:45,buffalo,4,9,5,9,Village 1
+6ab1ec23-fbc5-4bf2-8ef7-ca7f90d95a88,30-04-21 17:26,dog,4,2,5,9,Village 1
+6003ce42-084c-48a6-a5da-5e3cef3ed191,09-05-21 13:19,pig,1,3,5,6,Village 1
+a79c93b3-7fdc-4428-9e91-efc272a27eef,29-04-21 18:29,cat,4,8,0,4,Village 3
+e4fa3e07-2f89-49d1-85e3-d9c5525f63de,06-05-21 9:19,pig,2,8,2,4,Village 3
+027329e3-14a2-48d3-8876-f6a88fabe8ba,27-04-21 16:00,cat,3,9,4,7,Health Centre A
+3344629f-dcc0-454b-904a-0bb254a94a04,10-05-21 10:05,cat,4,4,4,8,Health Centre B
+ab677652-bf1d-4e01-a578-f85a3444d3c7,11-05-21 10:16,sheep,3,3,3,6,Village 2
+07b765be-3264-41be-8535-4be29e5a61f5,07-05-21 13:26,pig,5,3,5,10,Health Centre A
+9234ee97-bff3-490f-8243-b836055e3c94,07-05-21 16:47,pig,4,0,0,4,Health Centre B
+ba690167-0567-4177-9762-867fa702df94,07-05-21 10:23,chicken,4,4,5,9,Village 1
+ea917135-77ac-4f00-a424-3d757bc5f058,06-05-21 16:24,chicken,4,8,1,5,Village 2
+d31fc041-3a16-441c-aac3-21adfdb8e06d,30-04-21 17:17,sheep,2,0,1,3,Village 3
+7e98f9f3-0639-465b-9ff0-e39631a6f63e,06-05-21 11:59,dog,4,1,2,6,Health Centre B
+c058c9a6-2841-4361-ab55-b15454a410a9,05-05-21 17:12,cat,4,4,1,5,Village 1
+7e6e6f07-a609-4209-a2ac-a0ed2b4c75f8,29-04-21 11:02,pig,1,2,0,1,Health Centre A
+caba8bd9-c209-4a50-87e4-3f5fc86864df,10-05-21 13:41,sheep,4,6,1,5,Village 3
+48b7592b-eaad-4720-9806-a50ac1123856,07-05-21 12:26,cat,5,5,2,7,Village 2
+4b05d989-e694-4b44-9f40-2ff1ff03d636,06-05-21 9:27,cat,6,5,3,9,Village 1
+191ac3a7-2ebe-4b82-b3c3-f070745f3521,30-04-21 11:43,pig,1,3,1,2,Village 3
+a7c27998-1641-4270-8066-69f58ca2a32a,05-05-21 17:47,sheep,5,6,0,5,Health Centre A
+8c5969ec-f9db-43a7-8686-21717b521b44,09-05-21 11:49,buffalo,3,2,4,7,Health Centre B
+c1c43d68-2be0-4e13-acca-308513410cb8,27-04-21 9:04,sheep,5,2,3,8,Village 2
+4f4c169a-b60e-49c1-b2c3-10e1bfbf911c,11-05-21 9:25,sheep,3,0,3,6,Village 2
+634004e8-f1eb-4203-b9f2-81218c26e7d2,30-04-21 9:27,pig,5,0,5,10,Village 2
+3f3032a5-0a13-4687-8026-739209700587,01-05-21 18:52,sheep,6,5,0,6,Village 1
+d3d39f76-020c-4313-8dd7-eb7976d9bdef,03-05-21 11:03,buffalo,3,5,3,6,Health Centre B
+68dc9599-1cb3-4442-aec8-f08f264e9993,29-04-21 17:25,cat,5,7,1,6,Village 3
+2e0cb649-e037-4334-a4d3-7cd7acb901ca,29-04-21 10:34,dog,6,9,4,10,Village 1
+ef597b33-2ca9-47d0-b297-dde1c139cf32,05-05-21 14:12,sheep,4,5,1,5,Health Centre B
+eca49a21-b79f-406f-9453-87e03a6629e6,07-05-21 15:30,chicken,3,3,1,4,Health Centre B
+87626b8a-64fd-4def-8225-32054d653c4f,07-05-21 16:12,pig,6,0,1,7,Health Centre B
+ae85a7ad-c76b-4737-b2e3-78f69bbb332c,30-04-21 13:23,dog,3,3,4,7,Village 1
+5ca45389-6329-4aae-8668-47656222e0da,07-05-21 14:36,dog,6,4,0,6,Village 1
+cc3f44cc-1e17-4026-bac9-3b75be7ab86a,04-05-21 15:40,buffalo,3,2,2,5,Village 2
+4c4f2d9a-8ffd-4109-a3f3-165b65e49864,27-04-21 18:53,pig,1,6,3,4,Health Centre B
+6592b04e-1238-4ff0-aadb-bd3cd07b1a1d,11-05-21 16:34,sheep,2,6,3,5,Village 1
+0f19701d-fcb6-41ff-9446-ecebf2d9feef,03-05-21 18:03,pig,4,0,0,4,Health Centre A
+a05b57b1-23d7-4ed2-85a2-6415baab17fc,11-05-21 18:32,chicken,1,5,1,2,Village 1
+ebb2f13c-de19-4caa-8cc5-11df0bb4b6dc,08-08-21 12:30,dog,1,6,4,5,Village 2
+d8ea154c-5813-465a-89c9-5b6e7d0a447a,29-12-21 9:49,sheep,5,3,1,6,Village 2
+6b75605d-1763-4701-89a1-cfa3baafd713,19-09-21 15:02,sheep,2,3,4,6,Village 2
+039cd69d-31d5-42a9-9e5e-9be37473c235,10-12-21 16:05,cat,6,8,4,10,Village 2
+871f5670-7771-49f5-a6a5-b6e6aa65102e,08-10-21 10:12,cat,6,9,4,10,Village 3
+3604d4c2-4b39-449b-a919-fb42ee49240f,11-07-21 14:42,sheep,3,1,3,6,Village 1
+edf649d8-5383-43fc-8287-f4891ea5a227,27-10-21 16:54,cat,5,9,1,6,Health Centre B
+225cc9e4-570e-48a0-a254-8944a676e16b,22-09-21 10:12,cat,2,1,2,4,Village 2
+2113a3bc-d3bb-451c-a09f-aeedd01a9a10,19-05-21 18:39,cat,6,1,4,10,Health Centre A
+ce76cbce-5f9d-4bf3-a4df-5b9e210ced32,27-08-21 13:53,chicken,5,5,5,10,Village 1
+390bf63e-7df4-4d00-8f21-c964a55da06e,29-01-22 10:08,dog,6,2,4,10,Village 1
+c6fe5b6d-dd96-4e85-acda-303e559e2a5a,12-11-21 18:32,chicken,4,7,4,8,Village 2
+205a2840-0397-4922-8429-b5ea54b0223a,15-04-21 13:21,sheep,5,6,1,6,Health Centre B
+a2a49dd7-b52f-4ecd-9b22-a5342ef9760d,20-02-22 13:18,cat,3,0,4,7,Village 2
+e917d048-f86f-402f-8540-3f1dbd0b5e37,15-11-21 16:25,pig,6,2,4,10,Health Centre A
+403937d5-dd55-4f6c-9d7a-d0c71eff470f,16-05-21 13:25,dog,1,9,3,4,Village 2
+73da701d-9142-4734-801f-783a6f5d5308,13-09-21 9:53,sheep,3,4,3,6,Health Centre A
+140cf831-c08c-48ad-9b43-9634f916fbba,25-04-21 15:58,dog,3,2,3,6,Village 3
+ae89693f-f1ee-4bc5-986b-0079f449e7b4,08-05-21 10:23,buffalo,1,5,1,2,Village 3
+95643397-dafa-4ef0-bcfe-f4a24d656e6c,29-08-21 10:40,dog,4,4,4,8,Village 2
+81798cde-9b82-432b-b676-ab91dc532e43,22-09-21 10:05,dog,4,9,5,9,Health Centre A
+eb76d730-ff9c-4c61-8108-8ae1ac53ed8c,24-07-21 18:40,sheep,1,7,3,4,Village 3
+e7ce8924-9973-4162-ab09-23da9e9ea267,22-08-21 16:01,chicken,3,3,0,3,Health Centre B
+c7d478d7-57ff-4283-b22f-eeb605f46d20,27-03-21 18:07,buffalo,6,3,5,11,Health Centre B
+515c254d-9f00-4898-b8a1-d4dc383cfc1f,03-09-21 15:33,chicken,1,4,0,1,Village 3
+09fbad34-7200-4e4d-9a19-972566817410,07-10-21 11:12,cat,5,9,2,7,Health Centre A
+2fc414b8-053e-4542-8e1e-e715dfb2d34e,20-12-21 17:38,chicken,1,6,4,5,Village 2
+ab8a642c-222d-49b0-a214-deeb2ad33318,19-09-21 11:47,pig,4,7,1,5,Village 2
+fde27015-2cec-47aa-9b8a-e34017203799,01-02-22 16:51,chicken,6,1,4,10,Village 2
+19a39dd2-8bec-4999-92c8-dc77ce41040a,10-10-21 12:04,buffalo,3,4,5,8,Village 1
+f2d0c85b-36f2-456b-9170-3db902541779,07-08-21 10:21,sheep,4,0,5,9,Village 3
+6c880eca-41c9-4490-bbd6-4c9c26485f46,24-12-21 18:16,pig,6,8,4,10,Health Centre A
+f701b7c8-a2d0-4832-a3ed-c94db2ebb76a,30-05-21 18:01,buffalo,5,8,0,5,Village 1
+0edf7ce3-06a2-4a3f-9380-306ee137732d,04-10-21 16:09,buffalo,2,1,5,7,Village 1
+1f419dcd-61af-4b95-a6ac-d192ac062c22,10-06-21 11:12,sheep,3,1,4,7,Health Centre A
+fdf67738-c2d2-49d7-ad40-08df7cb49d0f,16-02-22 15:03,buffalo,1,6,5,6,Village 1
+c66d6803-b5c2-4466-a594-4462603bfbee,25-11-21 18:33,buffalo,4,4,4,8,Health Centre B
+73bea095-007f-4028-a5b9-e5d18349e9aa,16-10-21 18:32,dog,2,4,2,4,Village 3
+ad966d1f-dd4c-431a-834e-70b865e35a92,27-07-21 17:53,pig,2,3,2,4,Health Centre B
+7138777e-e9c8-4595-9bba-dc69d67b9104,17-01-22 16:21,cat,4,8,2,6,Health Centre A
+c4f97405-8cb8-4382-9790-71fb78686df0,27-09-21 10:48,cat,1,4,2,3,Village 2
+ad6ea90b-6e94-45fa-9048-b7db4af725c6,02-10-21 13:54,buffalo,1,2,2,3,Village 3
+c9f52fbc-5306-4cdd-8fe8-00464d2f704c,19-09-21 14:27,sheep,6,7,3,9,Village 3
+bf5a9a32-9283-4ecc-bab5-2af80481e1b5,08-10-21 16:41,chicken,3,5,1,4,Village 2
+9c657c79-0236-4409-b11e-53c1b99aca13,18-07-21 13:54,pig,1,3,0,1,Village 1
+82393e39-99e9-4baa-bcf0-65135ca2e714,21-04-21 16:33,cat,5,2,4,9,Village 1
+81380ecb-df6e-4e6d-a9ec-045d12dd095d,18-01-22 12:00,dog,1,2,5,6,Village 1
+9224f6b0-24b3-4aa3-9d50-4670eb0efc78,04-10-21 17:16,dog,2,8,1,3,Health Centre B
+51685474-f98c-4743-a174-52f4f4070d99,29-01-22 10:01,sheep,2,4,5,7,Village 2
+eba84070-6367-4e33-b17c-d964d48e9dfc,10-07-21 16:49,cat,3,7,1,4,Health Centre A
+a530f94f-f757-4f80-a012-1447ba170055,10-09-21 12:46,buffalo,4,3,4,8,Village 3
+0856eb34-2c0f-43a3-9289-50910e6fcd43,12-05-21 9:55,dog,3,6,2,5,Village 2
+9e5f0862-79d5-4299-b703-1a4f7ec09bf3,25-08-21 13:15,sheep,2,7,5,7,Health Centre A
+961945fb-6a04-45b9-919d-b625a069b871,12-10-21 15:47,chicken,5,3,3,8,Village 3
+78296bfd-916f-46a7-97c7-6ff6e6878232,03-02-22 9:43,sheep,4,8,4,8,Village 3
+f4baadb1-1663-422a-856f-7e0b0f89706f,09-02-22 15:23,buffalo,1,9,0,1,Village 2
+3272ca53-c879-4981-9619-25cce9c03b07,30-01-22 11:38,dog,3,3,3,6,Village 3
+656ccdb4-c65c-41be-a6b1-fb293fbcc7ff,24-10-21 9:38,sheep,5,2,2,7,Village 2
+fc015249-26c6-4a30-9a99-bb7d2e017a51,31-12-21 14:46,buffalo,3,0,4,7,Village 2
+ed37769a-ce2d-4a52-8345-20843035638f,19-01-22 9:47,buffalo,1,5,1,2,Village 3
+d59598c4-8631-4938-9c57-1f7524102041,03-04-21 18:15,buffalo,4,5,3,7,Health Centre A
+e5725faa-7aee-4b88-a2f0-e905b993705e,19-04-21 12:40,buffalo,6,7,1,7,Village 2
+cf4c1dcc-83f5-411b-a4e3-da3a6a8e2391,03-07-21 18:40,pig,3,3,0,3,Village 3
+0f1fd0cf-700b-4f2d-8e90-5da73aafdc85,20-02-22 13:59,chicken,6,5,5,11,Health Centre B
+43e2860f-381c-4dfd-a352-225a6eb17ce7,04-04-21 12:26,cat,5,5,5,10,Village 2
+52276db0-846e-4932-836a-ae5be8334019,24-07-21 10:01,pig,3,2,1,4,Village 2
+80425694-2a1c-4bbd-8651-9defaf71a657,26-09-21 16:09,buffalo,4,3,4,8,Village 1
+286ddea2-6a3e-4f33-983c-60264e43a0e1,04-05-21 18:06,buffalo,3,8,1,4,Health Centre B
+e0356fe6-2a29-424e-9fce-023056d72ef4,17-08-21 12:45,cat,1,4,5,6,Village 3
+ee896803-c458-4f28-b9a3-28283af521e7,03-10-21 11:22,dog,1,2,2,3,Village 3
+f871430a-2879-4866-8149-821efb9fe75d,24-04-21 14:02,buffalo,1,5,1,2,Village 1
+823f54f0-9a01-4e66-addb-0b51754b1387,03-09-21 10:03,sheep,5,7,4,9,Village 3
+d673f29e-a9b7-4837-bbee-4ffe4a43f079,25-04-21 10:37,chicken,1,5,1,2,Village 2
+eab7ccb9-c906-4bd0-bd1c-eeba5e4ac1c2,01-05-21 18:06,sheep,5,3,1,6,Village 1
+5d4001d1-2019-4db8-84ea-c61849843005,18-04-21 13:17,cat,6,0,4,10,Village 1
+be62167c-991a-4506-9058-be5d53cb584f,27-12-21 18:39,dog,3,5,2,5,Health Centre A
+3b2d08b6-d521-43ba-aead-7e0eb5778b25,10-02-22 15:39,cat,2,4,3,5,Health Centre A
+544c51ee-87b5-4132-985f-ebc82efa3113,02-12-21 14:34,pig,1,1,4,5,Health Centre A
+40114f62-27fd-4b24-b752-8ceaf4979280,15-05-21 17:29,pig,6,9,4,10,Village 2
+07860325-eb28-4705-8297-02c0cae02869,14-10-21 14:10,cat,1,3,5,6,Village 3
+7acef455-9c99-4a2f-b6fa-db155561f446,20-11-21 10:42,sheep,2,3,2,4,Village 1
+92f7af30-945c-4722-8d5d-6b4a5714f027,04-11-21 14:20,pig,3,9,4,7,Village 1
+b1733953-eb71-4650-bd45-62166828369a,22-05-21 9:15,dog,4,0,3,7,Village 3
+7f6b8185-e397-47be-905f-665d96e610a6,01-02-22 16:55,cat,6,9,0,6,Health Centre B
+d370a1ed-34b6-4467-9d59-9f80c99e773f,01-11-21 15:00,chicken,6,1,5,11,Health Centre A
+13d25507-7d52-4398-bbc4-7ba4d15f0099,09-04-21 17:21,buffalo,2,1,5,7,Village 1
+3b7e2d84-570d-460e-b7c6-8b64a8bcbf22,24-06-21 13:37,sheep,6,9,0,6,Village 3
+a07a844e-b7da-4e6b-beb3-42dbda9c89cd,09-12-21 9:22,chicken,1,7,0,1,Health Centre B
+b7172f6b-ed21-4257-b695-4699e055dfc4,16-08-21 16:30,sheep,4,5,5,9,Village 3
+f4c249db-8ad3-4973-8e2f-3571bda86676,16-12-21 9:28,cat,4,2,4,8,Village 1
+14e97cbc-1ac2-404f-b1b4-ded0ea51e5e6,17-04-21 16:29,cat,6,7,5,11,Health Centre A
+2d72a1dd-de11-4403-8b49-8bb379a80ab5,06-05-21 16:49,pig,5,2,3,8,Village 3
+04cb2a9e-5820-4087-9aab-509e316de59e,10-04-21 18:12,sheep,1,8,2,3,Village 3
+b46a6d93-c8e1-438b-ac72-1fd560e00d41,30-01-22 11:12,dog,6,8,0,6,Health Centre A
+6ec612a3-92b6-4f2e-8ec3-d87c802de2cb,13-01-22 15:35,dog,5,3,1,6,Village 1
+aeda73cd-296a-4436-a817-432e86d53d62,11-05-21 12:20,dog,2,1,1,3,Village 2
+cb7e6555-82a1-469a-b0f9-de33fc6a361a,07-06-21 17:38,pig,1,7,3,4,Village 3
+a7cdbe64-8532-4712-b826-56b18c15b2cf,13-08-21 12:00,dog,3,2,1,4,Health Centre A
+9cc78969-0c5c-42a0-9a21-31bf536ec16d,08-12-21 16:29,buffalo,4,2,1,5,Village 1
+37c8fcfc-6b7b-4d3d-8623-6a366faeb60c,03-11-21 11:33,cat,5,1,3,8,Health Centre B
